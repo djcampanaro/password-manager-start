@@ -1,0 +1,10 @@
+__pycache__
+.idea
+bin
+include
+lib
+data_desktop.json
+data_laptop.json
+pyvenv.cfg
+test.py
+test2.py
